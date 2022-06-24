@@ -1,7 +1,7 @@
 ---
 title: "How to learn second language."
 date: 2022-06-24T09:19:36+08:00
-draft: true
+draft: false
 ---
 
 # LANGUAGE
